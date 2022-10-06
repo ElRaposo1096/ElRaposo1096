@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ... Front-end
 - 💞️ I’m looking to collaborate on ... front-end beginner's project
 - 
-- 📫 How to reach me ...
+- 📫 How to reach me ... sousanikki@outlook.com
+- curiosity: I like astronomy and philosophy.
+
 
 <!---
 ElRaposo1096/ElRaposo1096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
