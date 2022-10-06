@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElRaposo1096
 - 👀 I’m interested in ... Development of website, games and apps
-- 🌱 I’m currently learning ... Front-end
+- 🌱 I’m currently learning ... Front-end: JS, Vue, bootstrap ... and more
 - 💞️ I’m looking to collaborate on ... front-end beginner's project
 - 
 - 📫 How to reach me ... sousanikki@outlook.com
